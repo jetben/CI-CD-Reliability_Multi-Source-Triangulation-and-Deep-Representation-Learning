@@ -1,0 +1,2 @@
+# CI-CD-Reliability_Multi-Source-Triangulation-and-Deep-Representation-Learning
+Multi-source triangulation framework integrating (i) CI/CD-related discourse on Stack Overflow, (ii) repository-level adoption signals from 2,000 GitHub repositories collected via the GitHub Search API, and (iii) GitHub Actions execution telemetry from the GHALogs dataset comprising more than 513,000 workflow runs across 25,000 repositories
